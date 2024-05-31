@@ -1,0 +1,16 @@
+{
+    "followers": {
+     "facebook": { "id": "1", "title": "a title", "views": 100 },
+      "twitter":{ "id": "2", "title": "another title", "views": 200 },
+      "instargram":{ "id": "2", "title": "another title", "views": 800},
+      "youtube":{ "id": "2", "title": "another title", "views": 1200 }
+},
+    "comments": {
+     "comment1": { "id": "1", "text": "a comment about post 1", "postId": "1" },
+      "comment2": { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    },
+    "profile": {
+      "name": "typicode"
+    
+    }
+  }
